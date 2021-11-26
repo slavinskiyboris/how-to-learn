@@ -1,0 +1,10 @@
+.footer__column_content_copyright {
+  border: red 1px solid;
+  flex-basis: 711px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: relative;
+  height: 250px;
+
+}

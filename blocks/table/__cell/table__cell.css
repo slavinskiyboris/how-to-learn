@@ -1,0 +1,6 @@
+.table__cell {
+  border: 1px solid red;
+  width: 250px;
+  margin-top: 60px;
+  z-index: 3;
+}

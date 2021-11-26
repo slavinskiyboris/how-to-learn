@@ -1,0 +1,8 @@
+.khan__title {
+  border: red 1px solid;
+  line-height: 1.15;
+  font-weight: 600;
+  font-size: 60px;
+  margin-top: 0;
+  margin-bottom: 50px;
+}
