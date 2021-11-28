@@ -1,12 +1,7 @@
-.header__link:link {
-  color: #00f;
-}
-.header__link:visited {
-  color: #808080;
+.header__link {
+  text-decoration: none;
 }
 .header__link:hover {
-  color: #0f0;
-}
-.header__link:active {
-  color: #f00;
+  opacity: 0.33;
+  transition: opacity 0.3s ease;
 }

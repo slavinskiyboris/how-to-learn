@@ -2,20 +2,20 @@
   src:
     url(../font/Inter-Bold.woff2) format('woff2'),
     url(../font/Inter-Bold.woff) format('woff');
-  font-family: 'Inter-Bold';
+  font-family: 'Inter';
   font-weight: bold;
 }
 @font-face {
   src:
     url(../font/Inter-Regular.woff2) format('woff2'),
     url(../font/Inter-Regular.woff) format('woff');
-  font-family: 'Inter-Regular';
+  font-family: 'Inter';
   font-weight: normal;
 }
 @font-face {
   src:
     url(../font/Inter-SemiBold.woff2) format('woff2'),
     url(../font/Inter-SemiBold.woff) format('woff');
-  font-family: 'Inter-SemiBold';
+  font-family: 'Inter';
   font-weight: 600;
 }

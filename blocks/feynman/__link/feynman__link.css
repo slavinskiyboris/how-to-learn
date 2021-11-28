@@ -1,4 +1,9 @@
 .feynman__link {
   position: absolute;
   right: 48px;
+  text-decoration: none;
+}
+.feynman__link:hover {
+  opacity: 0.33;
+  transition: opacity 0.3s ease;
 }
