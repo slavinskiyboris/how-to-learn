@@ -4,4 +4,6 @@
   top: 0;
   z-index: 2;
   animation: rotation 20s linear infinite;
+  width: 995px;
+  height: 1006px;
 }
