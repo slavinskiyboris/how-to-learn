@@ -1,6 +1,7 @@
-.khan__quote_author-subline {
+.khan__quote-author-subline {
   line-height: 1.15;
   font-weight: normal;
   font-size: 24px;
   margin-bottom: 68px;
+  margin-top: 0;
 }

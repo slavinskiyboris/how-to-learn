@@ -7,4 +7,6 @@
   font-size: 18px;
   font-weight: normal;
   margin-bottom: 0;
+  z-index: 100;
+  margin-top: 0;
 }
