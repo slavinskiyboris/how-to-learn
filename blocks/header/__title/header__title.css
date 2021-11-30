@@ -1,6 +1,8 @@
 .header__title {
   z-index: 100;
   margin-left: 64px;
+  margin-top: 0;
+  margin-bottom: 0;
   position: relative;
   line-height: 96px;
   font-size: 102px;
